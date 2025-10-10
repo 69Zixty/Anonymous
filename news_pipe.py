@@ -10,6 +10,14 @@ FEEDS = [
     ("Nasdaq - Cryptocurrencies", "https://www.nasdaq.com/feed/rssoutbound?category=Cryptocurrencies"),
     ("CryptoNews", "https://cryptonews.com/news/feed/"),
     ("Coinpedia", "https://coinpedia.org/feed/"),
+    ("Real-time Headlines", "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"),
+    ("Breaking News Bulletins", "http://feeds.marketwatch.com/marketwatch/bulletins"),
+    ("Market Pulse", "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"),
+    ("Nasdaq - Stocks", "https://www.nasdaq.com/feed/rssoutbound?category=Stocks"),
+    ("Bloomberg", "https://feeds.bloomberg.com/markets/news.rss"),
+    ("Yahoo! Finance", "https://finance.yahoo.com/news/rss"),
+    ("Investing", "https://www.investing.com/rss/news.rss"),
+    
 ]
 
 # Optional: only post if the title contains any of these keywords (case-insensitive).
