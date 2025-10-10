@@ -11,7 +11,6 @@ FEEDS = [
     ("CryptoNews", "https://cryptonews.com/news/feed/"),
     ("Coinpedia", "https://coinpedia.org/feed/"),
     ("Real-time Headlines", "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"),
-    ("Breaking News Bulletins", "http://feeds.marketwatch.com/marketwatch/bulletins"),
     ("Market Pulse", "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"),
     ("Nasdaq - Stocks", "https://www.nasdaq.com/feed/rssoutbound?category=Stocks"),
     ("Bloomberg", "https://feeds.bloomberg.com/markets/news.rss"),
