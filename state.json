@@ -746,8 +746,6 @@
       "3c086c673392495c860a43661df403cdfdea6226"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "a9a7637b5519dbf95b9f22487da8c961406a18c2",
-      "6ff4b6513a40bda5eedac4dd948eef07f651914d",
       "90e06eb369b279a031dea43f703e33f7393f6c99",
       "cb4ceaccbe2a388d111927d63f464dc4f4f7dcdd",
       "e07ffe35698812c583db2a402ac17994753a453d",
@@ -1245,7 +1243,9 @@
       "c899b6f048346dbafb667c258a6f08eb24b32dce",
       "70bb41383923cefe060255be550688531decbfe3",
       "bf05c62bd29d4869ab9519aba1176bc851ff49ef",
-      "20414d90e19f40ecc6d550f1f3601bf81a75d8c6"
+      "20414d90e19f40ecc6d550f1f3601bf81a75d8c6",
+      "17bf2a5d0712144c6a348b0816c260c41baa4eed",
+      "1b9a7497795b586998e4f29fcdf3f588b53aa316"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -2078,13 +2078,6 @@
       "7042fc3061462bc7d27faa5f77bed7ad3ae211e8"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "8bc591b826c7cc3de847dd1751d40a760fd5e299",
-      "6a2d35144872847e5f6c39597d88e80cc3b647d5",
-      "f87b6a1a8c60cf013675057a0e42b8bc0da2aa03",
-      "66f92a718be4939c134ac81f3afe13080e20409d",
-      "911171b7affc1b491e774a79f8ac438670f900c0",
-      "7e55620e94e30dbb6618268540cb0195208162bd",
-      "b6ae53843c1bbade09595a3ad5200aac4d925c9a",
       "f61d72ec8fe639d974b5c303abdb826f12c341af",
       "d2efe286cc360fbfed26acd652f27efc6353c4e4",
       "6d82f9ba309b55f8dd8d5e9f5b7628324e346592",
@@ -2577,7 +2570,14 @@
       "3e2e6aa7a1628157fe31c0544c99fe7e1740a282",
       "c00b175d8693e4bf1a52b351156ae890af981b07",
       "93e43209b6b232092100c64baccd96bc93d9d51c",
-      "66050f8080f6d4ad4b0877ae07546a7675ddf139"
+      "66050f8080f6d4ad4b0877ae07546a7675ddf139",
+      "97c3c9003ca1f920acbd8e99a66a3af78b7e26a1",
+      "4649ae59c601e6ad54b76aa0b3e7c4036d343b53",
+      "8d9cc50164ed85aca38b1c70aa793f807a63bdc0",
+      "2bea7ec7626bf72be1b6985f1c8d2168515aa20d",
+      "49296ad8e057c8a868e3371db5faf5517eede2c6",
+      "1624eeb8762990cd9199c0df374bf228e69e4c49",
+      "e34988ae7167d06641ba5dc7d3e25953b3ba6228"
     ]
   }
 }
