@@ -919,8 +919,6 @@
       "30103f2ac6b721d9d6c4b3aa7c84ac556a23b137"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "9ce72568d52cbba7167c1cc41cbd52e3ccd191d6",
-      "35d7a8aff927c0adaa2235f944f88de6f42e2cef",
       "73b76da548c2b62eb667aa957f78cb2637eb6877",
       "d021f7c46262af31bb614ffdaea37b4435778c49",
       "b82937fea5ae60957edb24694663edfd54947543",
@@ -1418,7 +1416,9 @@
       "8b3f6952f476b4296b17d168064bae37e94fc6f3",
       "7bceaa297eda215c54935288b985fdace313d038",
       "87fc811b4e4cf7ff4f1509c6f7afb69cb56851d1",
-      "ef0fc9c0d1b61669b0857299c8f1734716101f26"
+      "ef0fc9c0d1b61669b0857299c8f1734716101f26",
+      "1f10da90f8389e9d7623a75aeaf316241be593cd",
+      "73ee3920da7cf73ec6953def046c7b7295d21ebd"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -2362,12 +2362,6 @@
       "12e4fa7814acb527ffcffbc7bd093effdb00ccc4"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "fc89d6c711abcc919847ed9ba70642f36f5a9485",
-      "3696c51b7858d4d55286a869140bde7b2ab3fdb8",
-      "478cbc3a7ebd2c354985d93522259a858ad5bdc1",
-      "93ceec0a609d0461317fe3f2380e3f910fe1aca1",
-      "74bd36476ac0cd128d60f2114f87a19af2937b03",
-      "26abed72f537344bae24ba4070cbfb0a1295b78d",
       "3ea3d16b366f7f6a91a6aa040a0f5acb84418371",
       "402bc6a0bfcf430dbe82ede51eff1ef10d4daa98",
       "cfe547975824e7e7dc545db3acb64d17ef435e60",
@@ -2861,7 +2855,13 @@
       "23c64e31a1c1d70636483bc763415a22f89b07a5",
       "27e348cd1c7681347b12daa91336c4a6eb078522",
       "53a8612693cdc333e3563f5151e88c58949f59fd",
-      "1c07c5c543678cad770394099c59a4c8078db2ae"
+      "1c07c5c543678cad770394099c59a4c8078db2ae",
+      "46b7b199cce34d2659d46a4030153728066c69d3",
+      "7d584dd44f207fef5971263c4f59341e79202801",
+      "25364fd8171d029df0f8ec440a7acf1af28582be",
+      "c836994b427f705dda50a382df25a756b35f4262",
+      "70dc1c46f2b4e324ca9c3909d08a01a97af2f43f",
+      "e53e26f7e9673d88b329b347de75a0fb89f6f250"
     ]
   }
 }
