@@ -1,8 +1,6 @@
 {
   "seen": {
     "https://coinpedia.org/feed/": [
-      "ff1e43c726963dc9576edaa6660587ed5c8b1238",
-      "ae6624c4abda1e72e489232d80a7ed2c256b995b",
       "b004600ceb4244257bb50c80a76aa68c0ecec414",
       "24c53f98f46b72f54699e24ecf36e9d719feb68f",
       "1b41970765157d2f072438c816455fcd7c3ecf26",
@@ -500,7 +498,9 @@
       "12136844bba4b75cead4c99dff7f28fb9f96f6a8",
       "afdf9328dc7caf447ecab9110e71318468d14f82",
       "baf9d2ff9ec44fd85618cff52335f18fad120741",
-      "90bf3856ad28b052d8da84692d63c7208febac8f"
+      "90bf3856ad28b052d8da84692d63c7208febac8f",
+      "bf7c697bc42842746ab437204598c8864fdcb005",
+      "cbddb775fdaaf2f74b1de3e490531b3d12686889"
     ],
     "https://cryptonews.com/news/feed/": [
       "8a7d632367bb976cba7e34193f66b16ff8da5089",
@@ -893,8 +893,6 @@
       "d7839ea1189d45cd9ce34e53c000b7146bff1ebb"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "ee6449fe4725a33f7b106da8a84f507a38e900e8",
-      "4e043b75c9318e28057c9fa8a0a9ff634340a4a3",
       "558e1d27428ba51ef876fa5960c90926b99c09b1",
       "057a05c68176827135ffdf2edd242c44eed6634c",
       "cb781eb59e55219dcd37a8cb2df3929bff1ecddf",
@@ -1392,7 +1390,9 @@
       "3d92823cd1de4ed0b6e78fc34160a4fb077e2a2b",
       "5e447efd3757a9ca860a28b8143753fde08801ff",
       "b660d92c92b4e35ef2496eddeacc5842b003bb48",
-      "c3bd28d800c991708fd5df8ccdde149bbc4a23a9"
+      "c3bd28d800c991708fd5df8ccdde149bbc4a23a9",
+      "4d26e64fe955555f99dd3605426373550c1b6534",
+      "76bc766dad89cdf92d17f80db4e705e5682200b4"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1439,12 +1439,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "35c46e872d1a06708c26969f733d39f10f671d80",
-      "6890aef660b2be3267cfee308828cd0c49d7aaee",
-      "50f00c130651dfe12bcafaf2aa01a8dac3ef5235",
-      "3386e1997143b44af33f2e5caecf0ab344ca6515",
-      "ba845a72f41d38520a49909ae11801444b7dc4af",
-      "218cd5e768e21b93a985ef8de4bc3f428628ec60",
       "c4e1a7ce10eafee6ffba87e71b0919633c4773a4",
       "f8e3bc649381fe35d7ad3ba6362528551827de81",
       "37b97fb418f1ef227f119e223ac58cf981301676",
@@ -1938,7 +1932,13 @@
       "4b43d336b8b4dcfa92a4979a1d9042f9f8804030",
       "f0ae423f93c8e700a3e3fa1eb33c13002ec9d4ca",
       "304d9fdfbf024d844b884732fba4000e1f251f61",
-      "ce1aeaaf907482d04aaf52cb05a8c7f755d3f1f2"
+      "ce1aeaaf907482d04aaf52cb05a8c7f755d3f1f2",
+      "998cd71fef6583c6a7e22aaaa73dc0ba8d873513",
+      "0904fcf47fb6f90f46ee26c54aa2bbe7ae570720",
+      "ded40bc1629a6bbe41ef1b74df01049821b1fcc1",
+      "48db9018d9e73e5c6f2033f4588bc02cb84ef5d9",
+      "41342ec4a8774636800d73c511d80dd79f15e80e",
+      "ffedf782e9d35a2f908060e531c513ce255644aa"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "e192e941c4ca1d62696644ae3f8a91eabd934e90",
@@ -2302,15 +2302,10 @@
       "e35ad60050ad0f3b74b393d640cdd1322f865bc1",
       "d592557b9afec6ceca53bcafc9b1155a322d7eff",
       "daf5581ba912eb4cce2070e10e6fc8a12cb132cd",
-      "89d555f330dab98014da655206e66009367d53cc"
+      "89d555f330dab98014da655206e66009367d53cc",
+      "5c84eb893c16df22e6f4f7b68e2520e06b430706"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "b49d9bc801a8b3504df1535825e89a2282876541",
-      "8e09a6c50874a740c4f8203e5feb5e9bbda639a9",
-      "ff9d1d01f2353a03a911d6a3c5176920aff60626",
-      "66df7c9309ebd78109405b81e0bf1cd6387e4d72",
-      "2e436aa975ea527f3dfacbaa6c95f86be47b33bf",
-      "bd28bdcb4994333bfb09354d830ee2d9c644f175",
       "f8b1481d74ac3eebf16ffd3dd5e02e1182bc1387",
       "c1fb651c820ccc5d31abcaae06b7a791bd067cc0",
       "bc990dabcb8ff1bd3a06cddb2265b8a95327d9ae",
@@ -2804,7 +2799,13 @@
       "0ffc288cf1e25b49bac1289481cf99fa3defa887",
       "de3be24250f44e2353c42b81c681a39e875fffa9",
       "b89f40a2d98e08dfb7f2941e235254da7115ff6e",
-      "bbe78c208865fd63cb86418cdeebd024fcd5b039"
+      "bbe78c208865fd63cb86418cdeebd024fcd5b039",
+      "3e9022cd4a28b79876aaa4b6019d866a8acbf4c5",
+      "0f8f09732dcf5db07dba7aead908dc59b137310d",
+      "f16c00c40347cca0d2e5b9d11d2fa077aae29630",
+      "055a9f6b853728de274d640ede7ea1d91d44b57e",
+      "c909677f899595f6e0df5e88a42d25e30a6d4343",
+      "1664849fcfb2ea3ad70e8a7111acd49bd9bbda56"
     ]
   }
 }
