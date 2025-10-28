@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://coinpedia.org/feed/": [
-      "e1e4ace6a34944f70a5c50c5b197614ca7b2d732",
       "d91be819d46c1e6acce16e330a84becb5b709e3b",
       "b54e8251a8f98cdcc6083095027751441eb17c14",
       "36c41f9a4f7e2276db99a4011f5d29dc57fa034f",
@@ -500,7 +499,8 @@
       "38f619f04e7b2e0a6eff3656a35a1001904ae3ae",
       "9b2e642a37d890408154760e7d544ab97f2aaf4f",
       "09d98763add464a45d39ed225af2b56b29dacf0c",
-      "724bac07bf46a23057120eb85c0105f2e96bcec4"
+      "724bac07bf46a23057120eb85c0105f2e96bcec4",
+      "9df8d5496e9aa24d27c4fa30a9ac1645460e5319"
     ],
     "https://cryptonews.com/news/feed/": [
       "07bdf523b40469aed1991a4349bfd88b9a56f9f9",
@@ -1005,7 +1005,6 @@
       "8b290641e5978deb1a7729cc2b0e50f052925b11"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "0f7765a7e26a3c00976429a44936ff5be105c632",
       "b9a5e5e180383bd4b3e84a9ccf72ab03d421f60b",
       "ab8b673011f004c472c5f020c81823d8d279ceb2",
       "0bc649d6c4bfea63829ff31bad11ce079b8d069f",
@@ -1504,7 +1503,8 @@
       "ec13bb906f2fde720999f5f6c1d94301471c6404",
       "030ce28865580572ad7db618f74391e111866ce1",
       "00f0c7a56fa4854a343ed826240224b215d54082",
-      "cabc8b30d98be5c696e2a7fca69f1ff7a580a33d"
+      "cabc8b30d98be5c696e2a7fca69f1ff7a580a33d",
+      "866bc8058f817325b7bc0421e0005a897a4d4139"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1551,8 +1551,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "1530b067ccdb4f850cd8a183562402fb6fc38ad9",
-      "0b2d15cf3021d5a59e9d2f8f523a8f18d9bcc2ab",
       "383428c218541175ac52905f2ccdeb56e57ffc8a",
       "3885e1a6b335dea945423cceca83e11be98b5603",
       "f78efc99e0b9c6b05df2fff653fe3d20795ee1c2",
@@ -2050,7 +2048,9 @@
       "df604347c2fe36077862e90ecd9e1085f9a23f8a",
       "ed46852e4755d4431a45a7cdf011a0782336a5fa",
       "5882b38bd7a7ac743f2806efb240c746a0e048a7",
-      "deabf78ec32935e003bada2a0e5eb616d44c0404"
+      "deabf78ec32935e003bada2a0e5eb616d44c0404",
+      "4ebb6c5ef171e0749324da9b51242cffbee10d34",
+      "84894c92fb9697d69a8958b3cf528eb90d543b3c"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "e192e941c4ca1d62696644ae3f8a91eabd934e90",
@@ -2535,18 +2535,10 @@
       "b2fc4cf82ee684e5f98674bf467046d976ca2a53",
       "3d5b5bfcc4a638340df9e90d04a00ce4c7747c95",
       "cb49a76004231766bdf43e8deb6dfff4874b7fd8",
-      "00b7ed8e4d7f256220dbc7f400c797150f6c83b1"
+      "00b7ed8e4d7f256220dbc7f400c797150f6c83b1",
+      "74c9360b2b24457ab0ebfdf382db5e3533d4a720"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "2ed314b9768f49d3f25e7ea301987024542f6dcd",
-      "7bd2a248b83cb42c53e296582c665454db18e28d",
-      "b40f427c9192b0b909663a27030a3d19f2d2a55f",
-      "61217a1a924b94da9e38c1932fce298042573c59",
-      "53747118e2b203a431ff16b2f3b1f26ade8c053c",
-      "23b63b3f0b126b190c304cc226cbf360be932f56",
-      "98eba3c0e81bec0ef4217c629235d8b4958ebf6b",
-      "fb37bf03613781c9ea78157b208d956ff83db719",
-      "d77451276c48f6a1466f02110d0a49455044823b",
       "133422dd6180c7147e89b50a86a9de3542f73d8b",
       "b53964529a4933178ccc9409468daab3fe5f1702",
       "e5402f260b9d0af6434035ec3adcd3ba0b4eb829",
@@ -3037,7 +3029,16 @@
       "c5f74770f8a2b3f7262e3a38d87e736ae83cf7e2",
       "31861a8f1ce225e03d3bce909537d6ebc25cc6b8",
       "e355ab86beee2ea5947b8784296cd32a8198d13a",
-      "160de09367a47c138d07af9f838c0b6377242c9e"
+      "160de09367a47c138d07af9f838c0b6377242c9e",
+      "9a4c26b9c208f3aa1c6092df53aeac02a44dc1e7",
+      "908e78e570277bba1a6395129f7306d021aabc98",
+      "070a5f7860ecd11d3e678b76f9c0affe1f6b4c64",
+      "00333c78c3c18e47add9ebe9c188522e2f437055",
+      "60714bf05d53eb2274846c9518169fb26a076e4c",
+      "13c04823cdd5d8cb2d0e5a6fc7b4f15128494b11",
+      "56e26f1daefe076da4f62569e2e8019b0aa09c0d",
+      "16ee1808815325940c925a00b97cf8befc329fa5",
+      "f6f1b2b14c02c6b28c715280aa95918de62f9a48"
     ]
   }
 }
