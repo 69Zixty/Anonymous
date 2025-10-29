@@ -1005,8 +1005,6 @@
       "8584b607d8157770e4f378e885b18778ec371029"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "533a1b4186fd4665e498d34ec496cbc9331617fe",
-      "4ca34ae59a4da0ee86c625c3e4bc772c4cde2d10",
       "22aeeb67b9efaa3352543e7697f295e10c7259c0",
       "9c0b88fc7546055910501ea244ddea088e211ee4",
       "5c4f85c33b56843fb57e218067cdcf47df0b0664",
@@ -1504,7 +1502,9 @@
       "7e9e52e9bf4d8ee4d619c902252fb3fa41712124",
       "6e2b019dc53558911d3f6d9c5e8c59a9798d086c",
       "3f087e1869841fd5b70d024b2ccd448b8e7a1c33",
-      "f3975a9456c1f490e7254c31575a3cfcc3ef18bf"
+      "f3975a9456c1f490e7254c31575a3cfcc3ef18bf",
+      "632a2c2dfad023d6ef62c58215d78589b841f84e",
+      "748337ade2c1d66bc9a278f6d64b640aa099eeeb"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1553,11 +1553,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "4c5a3d243ef5ef1c534421251cb020c0db37b239",
-      "dea627ee096d32be431ee785b81b644b8010a026",
-      "38fc1aca20eaebae1d264eb2a75d94e432fa2754",
-      "5c09be5bd1642f92d87a455a7a7f3e0e43c5e7f7",
-      "a98e7c14332198ac7fe46cfee6118aad098eb6a4",
       "0d9cfbe4d1928a329a99ecdc6dfcf398dccd309e",
       "dbeb43e607e4fe4d9fd33b50f079124837bdf4bb",
       "c013e4c08f8aaefc8f4035b00f618854dd9eb050",
@@ -2052,7 +2047,12 @@
       "c9d26ae6e83c596e8fb92752762be9b16679c75d",
       "1c9111c11e8effb86e472218b0aa7ccfe40b3cac",
       "85d506d29bc6118381c702c76925c0237fca8a6b",
-      "d6a93b32e12a7597d0e59f032f9d6eb8321c292d"
+      "d6a93b32e12a7597d0e59f032f9d6eb8321c292d",
+      "e13ca5c0c97532575d3b91130186f180dc506e3d",
+      "9dc1613ae8b8253a5fec9c9f26cde07d8566de6e",
+      "7908a1d716abb3835bd9c5e9d42668750ffeca64",
+      "b7a33274f371cfc61adaec418adb9c75e6aad964",
+      "1b332aaa5f8931c8126f6d26a754121f3e7da7e2"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "4593c7537e89a468cecd9bab7de40df2f7cfef1f",
