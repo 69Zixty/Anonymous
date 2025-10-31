@@ -1005,7 +1005,6 @@
       "be65d56d7dad66027726bf59051e019a18b10d0f"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "ef27831871a4f635734aa8062643fa91bcb8cbe7",
       "6d0a19eade71b6d4f1cea6fb4ada2e7e5f85c1ec",
       "47242fbc7f7e1b399a7b88f0bc0a92952df4447e",
       "c021d55cd35022b95b877c4c17e3a261d55185bb",
@@ -1504,7 +1503,8 @@
       "d3a400dcf4ccf79dbfd981d012762c1d99ca34dc",
       "e74bc795b37970b63494c5ae275ed0024ae7c71b",
       "be443e73fd712c86e4bbb142047ab66eaac093b8",
-      "1b283a8afaffda5553e79170a8878d2b48c98a29"
+      "1b283a8afaffda5553e79170a8878d2b48c98a29",
+      "a1fcd7147e8a37f8b29b2c5d32999d65595395cf"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1553,13 +1553,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "7bc83670eae24da40c8105f73b6d258c092e8b7c",
-      "d9276a8f7592bea2adff39491d02276f0d956e73",
-      "21009d5238658856821b8123d63f10001b8b5e39",
-      "53b26bf9ca3289bc195ad7c5e17cef79dbaf06c3",
-      "60677f7cf58f4ca067d8d249c388b6f3e5b103ad",
-      "275c30c6aac15a42e01ddaf4d9add0fde74d979f",
-      "c28a610f682478ba9cdc6495c1f5f09c0de2a8d8",
       "92a4a0e89f1250a566c4c66290ffe862ee1eda09",
       "0fbc1ad2ede1ebd77dfa20d66292bfa87332f1ca",
       "a0b76715ab0d3a7de3cb62a7451001f3fd827c50",
@@ -2052,7 +2045,14 @@
       "d1c11dc3cf6ce924d98e578c472e63355b2f1fae",
       "9f6fae781387b725678b99c309b5f5921bf2bfb5",
       "e557bfc1a4664f966f465032df621b6f18797232",
-      "81bb57fdde439556655935dd33acca13d64259b7"
+      "81bb57fdde439556655935dd33acca13d64259b7",
+      "9bb6ef7aa6b107c5f9f0ef655003cd952a6cf4f8",
+      "3b035593360014fe8e1e758cfc54b98d4724d3ad",
+      "66d8a1b9f4e9292922e6523076a8a9f9cd961417",
+      "b393ba649936bf504ddf1cb1507ef2bbe3ba8658",
+      "1f678859c1386fab82dbba55e225fea99d2cba35",
+      "d972126ceccefc2a2593fe4c6794af410d88af34",
+      "b289ff32f93ba54dcf2eade5ad2f306db21ce95e"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "dad3aae5a7793ca75f3b1a6dc5d4e1f386e45f67",
@@ -2557,16 +2557,6 @@
       "86903c2f96147dd2147d9e1a3f72cdf355ee4d47"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "5a54c37f5a187e70d82a4bef0db5b754543d4cc1",
-      "507b5ce473a986de51ac73cd64915f5605e2b866",
-      "957a36da7f8293d9e302e1a10fbeea1a69dd58c8",
-      "996bf1619a487b0512367d37e744e69733d0418a",
-      "c2253b3b3fbebaaa1bdc37c469238af4ba8c1489",
-      "75c4cdfd67435f5f714c5dddf4e1e63175db6913",
-      "e1d31d213b05d3bd079aa7819458c2b59057fd3a",
-      "3589eddbbf00249e3404308e00d6a113b17f24ff",
-      "bbcf0c05dab08f3b5032a47a392fc18e9b69f150",
-      "a426393e93fd98612c0e5d158e715c3956d38ec8",
       "d3edcb5eedd0ef81ffb06bb1f396e3b1619ca93d",
       "60780beec6ef16b94b6aa0446d6b9debaf914f0c",
       "6714500735a862a014e0abebb494b222fb01992b",
@@ -3056,7 +3046,17 @@
       "d3606a3148289e51ee664caffdf3de542ea91393",
       "178aec42d8c709bbf8a7af50ec98f1c6891ca774",
       "6d711b8008e3f1658062f85c6537b1d15edb4be6",
-      "25a263198cc792305c664c9b7a95f6a72a17c0d5"
+      "25a263198cc792305c664c9b7a95f6a72a17c0d5",
+      "d6cb82783d5cdefb9390371440718eaaf304d9b1",
+      "468bed66c1a3f58ae4c6c6d5652b6e256ac6f706",
+      "b24a385de9fb14dcfd52800f602de47805126229",
+      "4a7bea8aad7a697c59023ab782f234dc15a7acfe",
+      "312d235b4b51fd94d00e27a09afa26440b72c95b",
+      "07680ab8a7c34e55606aacdc48b61425ed7c6d98",
+      "951d8fb9623973303e200930a7e81f1c1c5fd77a",
+      "74e6c52a690b3f5994ac680ce33815396c1a8586",
+      "fb9ba059a9c039744064e70cf6d3e97d006fdccb",
+      "d67cc1094f2721f9c07096c28d2b90d4b90f1a59"
     ]
   }
 }
