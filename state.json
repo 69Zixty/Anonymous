@@ -1005,8 +1005,6 @@
       "f2edafa83f0f93e8df8e0e4c7fe02ff857f65833"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "a54c890a00bb572653035995f17576d89eff7f4d",
-      "f600bec3b35b5f4d17a087a3c8eb99484e798a8e",
       "295a0ab9aa899be4fe985908172227e852591fd2",
       "600f8d82f29470cf8ab29daaec1cd108db382804",
       "78098a76c55847d7692a6db3852be1be04b77075",
@@ -1504,7 +1502,9 @@
       "648f693c8fcf4b21499e3f07197b3e69d41393b5",
       "719f9516ac7473be925b2feee8f7a790b6a3d72c",
       "ee00e1d5ec45c5678ba9c6aa434499f2a8fc383f",
-      "ffee68800825bb99acd5114364b9ba6731233f4e"
+      "ffee68800825bb99acd5114364b9ba6731233f4e",
+      "3f20b56028abf0a11909cf5dfee368ff00c29d17",
+      "8838dc5e91ac9b259f3c605b43ee45fb02792851"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1553,7 +1553,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "01ce93eaf3ba580a3507d17e2a7f4d2c3c0ae1e4",
       "1d44963a3b7147b475604b44574b25fc005118f7",
       "20174ee435523fa203f9f76301b323b1a686e613",
       "19ceca6f1a6e43ffbf40b2aad4791e48e07be574",
@@ -2052,7 +2051,8 @@
       "716c62392b064b276c307868fad043e38e992780",
       "5a35dc82ea9129d6c5bf3c8ea50f112ea5c1f218",
       "ad387a3d320f8e9ba00054463c8431120f0a19b7",
-      "9a4ed68b15a47ce5eb9f82c6409155d60f8cf075"
+      "9a4ed68b15a47ce5eb9f82c6409155d60f8cf075",
+      "1a264902e88045d82a605a55ef1dc91b4ed150cb"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "667f701324e53d636ccac5b41e55417eab0e2ea3",
@@ -2557,7 +2557,6 @@
       "d582acda81a85f15f020b313146b77833cbfe185"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "3fa7b48cd13fc3c9ce3a02e7b5fac936143c49fc",
       "1b5422f4f13a2c0273508e45be48f49e4a8893d9",
       "380b90032c5e7dbb998d1d72fa6a95817d0ee02a",
       "8f5e82b67de703c8f8eac08fdd73ad506e31a880",
@@ -3056,7 +3055,8 @@
       "4eb217277393c98c1cec9625a95c79cf3b883ce6",
       "6565404e579aae8542c923d135414156cc056e95",
       "f2257df3cab8c6f6af8fe76330f6ca395217c40a",
-      "91df72778695ab1c461b28ec9ddc6e70633f7178"
+      "91df72778695ab1c461b28ec9ddc6e70633f7178",
+      "b8156fcb2ecc0396ad4b83593552b615dd21ed9a"
     ]
   }
 }
