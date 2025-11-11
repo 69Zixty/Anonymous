@@ -1005,8 +1005,6 @@
       "e2e8cddf19ab4d649503dcf9a2aacbdb71267129"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "3f20b56028abf0a11909cf5dfee368ff00c29d17",
-      "8838dc5e91ac9b259f3c605b43ee45fb02792851",
       "be8e0352985cfbcf9c6f5be53fcba6cbc29c0a12",
       "d785c906ff886bc912839dbf48aa4878e0867b16",
       "a98da86a6e84c9477227aa4fea50b859406b9fca",
@@ -1504,7 +1502,9 @@
       "af5989f8fd666cbd2dd91f5f4be7094dc4d86d53",
       "98c7c4b826be76402985dfc916b7aa549337daaa",
       "cc7b707a7d5a0d87a6702165e56f4e6dd047c284",
-      "1019fd86aa24ad503d0859d9523b3554e9dc01bb"
+      "1019fd86aa24ad503d0859d9523b3554e9dc01bb",
+      "3b512a9248a3216ea23cd362f7dfbfd597bef66c",
+      "7963b244e07764ee66352038b39a704579d1c2db"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -2559,12 +2559,6 @@
       "b85560cb8e8544c2ef2b6e42ca4883f70bcdac2e"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "ce2fa1205264cb2ed72ba82c1a50c8de32766fe0",
-      "312162ca53f72daf2d73e0fdad752db2abbfa384",
-      "3888e6e3773030779d2484d0958a2042f301635b",
-      "114f2d8d6941a36f5953d642929a3998f5e8cfb5",
-      "84ca7837a30947870661b530e8aa58be54ce2d5d",
-      "0e74a5e19bc5da462a9a7fff0d6cecadbe47410a",
       "9724aaa60963034c21320bf631a08036516134e8",
       "ee4128176641d60c8c7d22dfaad5f39058a04f5e",
       "29177244b29999cbaadf75bf830652bda3d652b0",
@@ -3058,7 +3052,13 @@
       "fe0a56c4f23ade6b10ad8f041f35e44ab3ad750f",
       "425e13720fb6a2e2a18ab1d96578c3c73910fa08",
       "2007c1b9804c29c965add04a9c0cb34884f3f704",
-      "df813237e600a3f94de1a28bd1f3e11ad94bed65"
+      "df813237e600a3f94de1a28bd1f3e11ad94bed65",
+      "e2c7e3f7e6f7ab69d5dc224ec869c4c9cdbb3078",
+      "c426f677ba2c75b06492514ad067d6a517624100",
+      "14d68d8d8c3ded9468b230161f0629f58eb1eb89",
+      "4a21cca3c468e5dd4f6fab958e86ac72e49ab4a0",
+      "d8f6b0e70112f46f5341f396095d99d81242897b",
+      "8e06274a9995f1c60a3eca967aa2c845b7720052"
     ]
   }
 }
