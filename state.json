@@ -1005,8 +1005,6 @@
       "be8defd0cf9fe737772c0427c3f0c21ba698cf33"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "424263e999b06bde64f71e29904714c12e31fdfc",
-      "90ac97f0a32d79e5562c8d4d27ef31511dd7747a",
       "a1176f93cb2a05b6157cc87229c9c55b23fd6934",
       "465dc8cc8b9843e1a5850ffb96a76e2a067f6fc1",
       "da4ba11ee65f5439e1ead8dc47502d53f38c55b5",
@@ -1504,7 +1502,9 @@
       "6c63a4dec2d75fc3a6c8a92cd47f1488da0ecb59",
       "01d0bebf19dc02f5afc7cc2227770aec1143ce64",
       "a21ba736abc5c96c3c02019c3e9e8883f4d46f00",
-      "b36dddf4e05eb05b11a4abc4ae8358186393edf3"
+      "b36dddf4e05eb05b11a4abc4ae8358186393edf3",
+      "4f9b8d54b5b5f99ffd9cf6c1683d96072440db3e",
+      "8a4667c524a74a784b0be40ff73d975aeb089573"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -2559,12 +2559,6 @@
       "1b0eed7eb4c0b4d973418c3aa3781a6849fb4922"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "4497729964e7802f7b5eb313307cc38cb52da44d",
-      "d5cf69d77a92b8471a0ed48929d1206e340d181f",
-      "423d5912543cbc100412e7729e08ea6bcbd384db",
-      "fcf856fb27c094e00c47e83e361e4a70b9360f32",
-      "6db682bec7c65a681d676d9fe673adb0f0afeebc",
-      "332fc8a09081055257a2692287a769dc53babcc6",
       "3086493c67c2fc5560c7af815123f39eaf8ad68d",
       "154a2083bcaf9630a6a4eb33f4d47a74e0d3d939",
       "7cceb4d89fa349d9006250705cea17664558cd2c",
@@ -3058,7 +3052,13 @@
       "e60e63a5ca54b19eddcc7e3365c53f69ce530278",
       "c18116c15319d37cd2fd746096d34759b4214f30",
       "3cad4689d6a80d048d9253778d526ad27b812b21",
-      "d0495a3f858e92c193a4060c189df2fe7026e7ce"
+      "d0495a3f858e92c193a4060c189df2fe7026e7ce",
+      "a714d3ba2edff0ededc1f5c90d09c763a7e589d5",
+      "fd1b24e97766cd3002011e7442190b44ead40482",
+      "e2b6651dcb283bf7a33ea9b019c37faea040a772",
+      "9b15ea2bbf4a146c64879de785930d67ec30c47a",
+      "20935f53ca96f5a651accd36edd949453593a687",
+      "3dced96f6792520d30258592d6f77275b4302552"
     ]
   }
 }
