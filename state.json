@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://coinpedia.org/feed/": [
-      "2b7473adf42d512072bf6fb706f97b3ae4fceb92",
       "f6f3e8b956fb2d9b12291e679a81e1db3f1bbcd5",
       "0c75e2f0769401ff8c15b548d59a8b49d80f0a4e",
       "9305a2ff5f9c4a5b4858dbb2174c99bc38202c89",
@@ -500,7 +499,8 @@
       "644aa49673ba720113daa3e33711cb1ace9619a0",
       "b9648b9bb9ab9cd5887449ac716dcaac62583dcf",
       "3f08ab9cb04db3a23cb8b5dd9d72e406a2b8f267",
-      "e56ac5b7f293fc5304d0e9be5a79cc3b1f2d337c"
+      "e56ac5b7f293fc5304d0e9be5a79cc3b1f2d337c",
+      "e41c1cd363d051c28ceb3d541b5f520ad58b3a9a"
     ],
     "https://cryptonews.com/news/feed/": [
       "9678ef76f28af1acd78177e2a09552e16e8a7bde",
@@ -1005,9 +1005,6 @@
       "85b0d910d2feb624ec285743745474b099785295"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "7b80aa3fc6bccd6e87f58b20211587ae5867e5b2",
-      "9364b85f953dc7e8ad0fa9d3474d3498b601109c",
-      "cb660d1cf7222db0c866e737d2cc3c010059da97",
       "d616d3a969b05e7fa20fd63029df69e1ad1ddd54",
       "e6e4695aa7fe03fecef8b450d77a87ef2ebb291f",
       "c30bc7ae89e2a097ebbd5c75ce5f6e7d69798984",
@@ -1504,7 +1501,10 @@
       "1b452c76f51dac501a962415445a3d6558c3eaf8",
       "d692dd74ed9f1b714460d3d1ab51d1bf05d410b2",
       "59ebc08f04ffac1068ae56c9e46649a0410c1ae0",
-      "2830783bcc1d42b5281841eed6473839e666fec3"
+      "2830783bcc1d42b5281841eed6473839e666fec3",
+      "f1e742998e49f42163a6ff59cc15cdc0b17c5461",
+      "7f025b4748546b6d441242efadf9a45d1f8e2ea2",
+      "a454db5430abc646babef9bdb365d2dd86848637"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1555,23 +1555,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "2401ea3e5fdb48f010068d08433dcf1638dd0c40",
-      "990840a5c44c03d7147067a8015494312d6e131f",
-      "f3e247d2d6f47d98d3a2fc101e4deb7719acbff8",
-      "6c8b2499f3d98d4876a55586bf10c50db5164b4c",
-      "8216aadefc8da6a4ad5c3b5caa3916cc194417bc",
-      "5d6fcefd5a769f7965a3bd0f6b3880566f81d337",
-      "7e8a9aff43144a84c88e1fb458d013b7deb4d8ac",
-      "15b50d1692c41c348649dd6a6dbf7d2bbc206972",
-      "2fa5e30e6379e102277cc9ce9769f4cd68a16b7c",
-      "230fa755062456d7406b1e58c047226ec4e4a313",
-      "6849b51db528e1c307e0fbd78ad735f0be345902",
-      "2cb5248b48f993ed506d355ca388413655c5e2c4",
-      "c3c42ced3e83cc12119aa906d9a901196b1b5316",
-      "ebd743377240cfe9e036d521b8d449c956a97834",
-      "dd27e3b4f9d8d52fc168593df54332a55982bbbf",
-      "da88f05bbbdb0284659e60a8766c7693bdbab4de",
-      "777603b2dd01f5f4869ac9aecd15037ff2b6d347",
       "aeed1db352538b43c8172ed7aa5662b1760905a4",
       "749a400ac38a076f5f8610d227a482d93a416775",
       "d902535fcccdfd1f714d10527f800b5e01c96347",
@@ -2054,7 +2037,24 @@
       "771a34a74ac4187d15c67ce4e6305267ee1834a4",
       "8fa5b0778f66c4fab71662998b381ebb86ff9ee2",
       "9e2cfaa5885a591dfdd51e854c3812c9300f6723",
-      "f8328099e9a0dcf26ee70d90596ea5d02bb98b51"
+      "f8328099e9a0dcf26ee70d90596ea5d02bb98b51",
+      "55ef179d2b47854b7eb49ed17b93a3fefd3d84da",
+      "b7577cbff6d871245872332fb0952d4de681e849",
+      "4637ef050c931e673eec44b8231012f8b89cd4e5",
+      "d346f69aa2466607c525de1902b2883c6b0fbb32",
+      "40e44cb9eeb1b8e76091f7f1ebce000a863005a6",
+      "78cdfd5e1ff9392c9428186c17352da6ead234e8",
+      "d59d7a61b07440b86e2da67d08e18f9e62aaa313",
+      "20c3fd4becbeecc3e50aea500e4008c1e5732a5c",
+      "868eb3070987250e18256f3e09c6762d5b03bf62",
+      "514e68eac0cf70c089bd2000ed1b8605dc69b347",
+      "5cbdd4dbd1c403c0b823db564f5d301de38e850c",
+      "230fd67d6e6530fa62b5b1648359245177f264d3",
+      "a31642b8c573c8cb58cfc01e44ffc95da08d2974",
+      "1031a465ec822b01317b970df29274578f2d91fa",
+      "28bdd71741d9d463f1cbd8961fccf8d42d2e556d",
+      "08203cf23c7b0a9bc0445a57136b09f6fb545122",
+      "3fcfbb326c50cc669ecc9036a948976b66bf5c85"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "1fae8d5da761d3662b24638a744ff1a081e30fcf",
