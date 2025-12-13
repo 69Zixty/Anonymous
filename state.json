@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://coinpedia.org/feed/": [
-      "c4b42c6fc776a96eb63ee77d459a9e52dbaec892",
       "381f70c3c4b75293df9d37edce54a643e3163183",
       "a4efe9cd1515a05bf009f4aac644024d96f4cc5d",
       "be36a5e93e8582aad629419ab35f48dc4394363a",
@@ -500,7 +499,8 @@
       "b057ff9cfb015cb1132acf3fc67867396d8856a5",
       "cb735326c8b7d29b9e9dac5eff6c924fd32c37b1",
       "2e9c9c9a9381925401c7bddd092d9ec1ec7901f1",
-      "3a17182a72de939a6e93c536b0480f825f23eae3"
+      "3a17182a72de939a6e93c536b0480f825f23eae3",
+      "11dbb595c87c26bf9c4a7bd3c6ab7236d52d7e77"
     ],
     "https://cryptonews.com/news/feed/": [
       "a969920dd8db0f7dcdeb67111cbcc09c9be6eb32",
@@ -1555,10 +1555,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "ac6a9ecc93b3034442d250fdcd56b9119601f10b",
-      "1b5d4d8e9d014fafa65290b36587824fb0ef49b4",
-      "50aa6b230646b0969f6a147e0e4b0d0c77b59b3b",
-      "351344d334ef28092c9d1b9f40f3380757a503ed",
       "84cd555dbc09d9595970ff1a2ec4b9735e16546d",
       "fdb47a2c62efc6a2662a7797d24c662a20a4de38",
       "3bd53d753e24016f55d695b8f73a246e69a2fcdd",
@@ -2054,7 +2050,11 @@
       "503048bc8c4b6224f3fce9cceb9779361f9966ea",
       "6add0e0e81acffc2b0f7afcb3fb7b10fc74cd05e",
       "a47177e2ea5101b188d69a618085ea3d82eb8e0a",
-      "2b90fffe05a5cd338ebe9b768541f91659fbf72f"
+      "2b90fffe05a5cd338ebe9b768541f91659fbf72f",
+      "43e8255281829fdbc162a67a77fe72304a0da3ad",
+      "d2bb2ea2f643419c2e5030991751b101649c44bc",
+      "37666374514a43a890f4e567afc3b1522251895d",
+      "45dde1cefc19185d76dff51fd1e2791dfdd39d1d"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "ee93a70e822677d0cc58a80a9eb32ada5d6a746f",
@@ -2559,7 +2559,6 @@
       "87c6d40d66059abd1aad0a14de0093bdb16617c8"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "8b92b4028ff5aa61fb8b37631e4ea395dbb93730",
       "809d3eb44695552067dab4f0955a28fdef1562ba",
       "499f41fbf242046047522ab604df019e543ae30c",
       "0cd34ce87aedcde7aa6919f0f1ff79ce6ba444cf",
@@ -3058,7 +3057,8 @@
       "eeffa2391dd77b04dc08add2e09c67e239395e7e",
       "b0f1fc1146999c295eeec75e3c83201db68b5432",
       "003af8154a458f07e05d4b6ba333126b237bf82a",
-      "4ef9f01e42808438a74a4cdc93ac062853680716"
+      "4ef9f01e42808438a74a4cdc93ac062853680716",
+      "9d95660a55885951cebd00f3eaed574f32293522"
     ]
   }
 }
