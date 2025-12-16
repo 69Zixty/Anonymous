@@ -1005,8 +1005,6 @@
       "1b234058d50bc59d52c14e0484bf839e3a17e4cf"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "579c7fedc07524a20998be1f3c306856202b3e29",
-      "83c0adbc8f62c9636fb52c4f0afc8acdac7caaa3",
       "547774074bd5c81a19219a95db72c6c4144d2a8d",
       "6f468ac5aa8f096384413d80c61fdaf38d0229bb",
       "72aef95d4cfd3901c6bf65465444bb017e979b38",
@@ -1504,7 +1502,9 @@
       "183f811a02c72f2ed67ebf16d523b96c61eb9305",
       "b45d94a0fd1bd5a0cc08703ac4c9df1c16929bc9",
       "51e649d9e8e17249f2eac289ced2ebbe4437e562",
-      "7af2e62b9bc96df2f336dfc170bc93633ba9e1d0"
+      "7af2e62b9bc96df2f336dfc170bc93633ba9e1d0",
+      "3c0af5e1d941dbae51d3a047b733111dda511df4",
+      "2ee00505aab6b135595b18d51d71d3cff8ab492d"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1555,18 +1555,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "8d020b4487ff7c9aa385ddf4da5c9f29383c5083",
-      "156177863a8ace1392ed9080766c5455ab94a327",
-      "03ea99cdfdef7b70a4c58e37008ab8cba09a4c3d",
-      "88c26164422d40cd0d50aa4d64767fac60eec7c5",
-      "056260eba639d963dceac957ebaeee09d15cca59",
-      "452539528299bbbcc4c72d058ffb7acc9a07ef89",
-      "e5162adb50c0d380353309c01a032a30c051fc0f",
-      "641c0ce8ca4b395347229ccc4f18e248484ee899",
-      "737966bb1413c5486b35f27d08069f14594ffa02",
-      "3c0dcc8b0c125e95764b5f4f1e6a6c6ab9e8e2ce",
-      "f01f4f89dc7cd3e2ede4d896fb5bc44cd8e23bcc",
-      "43aa2163b671be3a756424811882dd1bfdaa5a20",
       "94c37529d4738ec1658165ddfc5ecc1f351e2927",
       "f90b285e96ea9a79d653903e3884b7256a371f0c",
       "1ef58d29d1fede33f6323812acfdb4c9aa5a681b",
@@ -2054,7 +2042,19 @@
       "aa04f93fbf705ddaace1bea8b7dc89f6e10507d4",
       "b56dabccc64fe17105d308adec0bb3780da2dfb2",
       "36832165d7ea54057643ddbb2181bdc251204dd9",
-      "72b469c824541ee1b794b1dda6ea5f72dd220b68"
+      "72b469c824541ee1b794b1dda6ea5f72dd220b68",
+      "5ddbdba1613cbcc37a5f807361bb4488ec7e5b2c",
+      "234a6b56cb47b1e45882447158dce289a4162c8e",
+      "4bfa1aca858cbf6fee29eb3ddf343dfad55fbf8d",
+      "28ef7b72150d51481676f79dc089f8994898160d",
+      "fe468f00a132cc7217b1dd7dc81dd1089f056172",
+      "138705489a07b3b33557d4b19706f4b1095abaca",
+      "c1e33924ac5a59706279dc6a006eb6319c3d3ea4",
+      "01508942c0d135b4577b30d6f548e5fc03d7548f",
+      "37476f7e9ad2110d181ef508ce83f3a194d6b9a2",
+      "42ab0bd6f50858bed59f506825f0bf048fc5ffa6",
+      "622411a652eb19a012d748c0ae5cc611eb1d481e",
+      "412ef677bebc53bd40f5207a9a4979c61a4cf22d"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "3a97c2d68804d42645378f3075a9e75951e54099",
@@ -2559,16 +2559,6 @@
       "e9fee27b53890a8f1df1d560393d07e6211b6728"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "faab512dac1b150aba41292acd40d01964c78b99",
-      "a5e176632c6fa4e776e2d9a0a3a879f85abe3ca4",
-      "1e318d1443213da607bdeb8f996f614f61486a00",
-      "53a7816a9f990ba1a144242adc0fa5d402cecdb3",
-      "b30b915ee6843d8079e52ef51814ef927b3a1d5f",
-      "8fd5080cca3375af7b2d6e881b0d72a7f30c959e",
-      "1813b5b89d2324f75d747c8601e136bdcab5c1db",
-      "f0f145a76ea0424cb02d7fade5319ca01c94178b",
-      "9876c18201b383cb93db558c17e2d5ef8a823354",
-      "f042dcc85b59ff4314f67f62f1c13e5d489b0f08",
       "682cd26a07cd382ab7b54b812dfe23f336fa9a62",
       "a7ac6af124dd76f3c4fc169dee8d42abf8c5053e",
       "1a9a0c9376a648a8ce9bf10bc6e93c3f420c7c6f",
@@ -3058,7 +3048,17 @@
       "42aeb7604f0c25aba265d37e8d5f0619ea965d0c",
       "7f4d9561c32ab5735c19b533f93d1d7234e3b724",
       "cfa91a76f4a289de941a57fe08be37f5d434826e",
-      "31034abce8efecb44ff6e09525ed413a651a0bb8"
+      "31034abce8efecb44ff6e09525ed413a651a0bb8",
+      "854c2b31501ff14bece0db9cfcf75d9c5858f65f",
+      "5ef7f90fe93b11fd373a122e5ebf7838eeec2d01",
+      "9e82bc61bf4d0ba2550eadc84b51c5ef900bf079",
+      "49f8e7e4eb2c63d84122cc1a96c5f6ddd9541a0e",
+      "af2088f75c2e47a55c5c40d75efb1e4593956297",
+      "02f03bcf8028071355a24925d48bdd2de309fe44",
+      "734df81c26af260b0361ce3891f56bc7dc7ff9fd",
+      "675400ce78a2f03cb7b4a1bff112a528ea1eae7a",
+      "dd494a13b95bdb6ffb61ea51e00d649c41acaad1",
+      "e105d810c39c91127482ef5af1509f193edf20d8"
     ]
   }
 }
