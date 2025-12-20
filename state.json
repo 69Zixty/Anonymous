@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://coinpedia.org/feed/": [
-      "fe38c5f59c1a9e21e6ac091876db0ebc8fde922e",
       "e79eea62cc9a7fcab4c228e1c8a11d5789b5602b",
       "32deb5baa13bdfaac9be04fd7c26142376b65cb1",
       "986893d04e8a591dbde22a11a891a618817842f5",
@@ -500,7 +499,8 @@
       "41a8ac9a88ba7831957a03d06f557a3f981d3a97",
       "790e6831a774ad018ea81b5b3e88ee4502501277",
       "fd56d7973f2c8dfb67b3adadc1a03ab24a1c671d",
-      "de7df1abfb93981d1844f0d9a7850d4b78983161"
+      "de7df1abfb93981d1844f0d9a7850d4b78983161",
+      "5496125b317b13eaf0e6c271b3b14d8ef9d49353"
     ],
     "https://cryptonews.com/news/feed/": [
       "007eb1b15728a1dae90e1d8a3677063fcf110cf6",
@@ -1555,10 +1555,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "b05a1b365512cd582ea76c0d1d0594de77663795",
-      "d534a0c9e1dce20422a74eb245870eb8029fdf55",
-      "d3aef2fd794bc6543b53105690b01c35d8a164f8",
-      "d07a945c0defb3f3a96a02b8717003b3e0a3feb2",
       "fef1354931c5cd47be3b93520a118201dac3946c",
       "6188e7d9de031d543e03f87fd993fb1a706a42bd",
       "ea248a1126a5b049f6801c1d9a797bd0b172377d",
@@ -2054,7 +2050,11 @@
       "019b3271cba4843e25a2010053959c7e4fa89d63",
       "6cab1cf6c25ac7941b71a834a5abb0651835d07b",
       "ff7424e109bf676a3198e85a61b59f5dffe39092",
-      "976a738aaf479c32e7d00ded37b55f72b23656db"
+      "976a738aaf479c32e7d00ded37b55f72b23656db",
+      "da7f69523d0ad06ab92b57e0dbd679acf46bc5ad",
+      "ac17b7ff8f883b1f8beddc2d6ab804c1700925e3",
+      "393c6b0bf36d48fb9ea4c2b07073aeb8625c8d59",
+      "92ee6242c5f482151612a1c5860bf5c12c6980d8"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "373be33c223b76d5c649c9e15abf6c78cd60b757",
@@ -2559,7 +2559,6 @@
       "1845e605cd829d64f36ba708d95c2284ccdfab13"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "d5a77c38f6f9ecb5a2633115643edaa18fc385c6",
       "58ac0b4334fbe282924e7ab44c248c7f5fca5f52",
       "7c26f17271cd4fb9e17c218caebbae5530c56d88",
       "fce6202bfe0902d958fa154dc2a700f2e98aa025",
@@ -3058,7 +3057,8 @@
       "e71df0c3f1e0bb70d8ac6e42dbedc494109815a5",
       "5e3feab24e9f23b9b5852f7318657a8c834f400c",
       "1620b8f7844b2fa81ee32ea9e303d37d1a71b11d",
-      "a5d827a8a7f712e0b831bad50bffc60d99e70472"
+      "a5d827a8a7f712e0b831bad50bffc60d99e70472",
+      "8faac80c08413befd3c7cd852108a0e08f7e989f"
     ]
   }
 }
