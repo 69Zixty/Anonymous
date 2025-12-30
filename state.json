@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://coinpedia.org/feed/": [
-      "d2e421a94422a82f6a5a77eb758ae8e4c559fe7e",
       "a969f3c070a56117359e15fa01d7780ac4fa0ecf",
       "a38b3e46013ec4ef2f6cd67b48a255db8cd2c0a4",
       "3460ccfccda89caeca82b8a3781134cf51f1dd0b",
@@ -500,7 +499,8 @@
       "4bb05e38c1545308414a76158fc20a894aae98d9",
       "510857aa2b6863c984e55afab05547c15b2768b7",
       "ccfe7e22e0537c3f2cec5293110f4d712dc3dadc",
-      "a4724051e2d56313a0c5b4f8fff2872f2ea0f45c"
+      "a4724051e2d56313a0c5b4f8fff2872f2ea0f45c",
+      "078c1f3d386c2adc7067e5352ea77aafdf6dda41"
     ],
     "https://cryptonews.com/news/feed/": [
       "6bd57dc10a06b349227054238752a231e0273431",
@@ -1005,8 +1005,6 @@
       "14111859a73200e86f9b95dd8336e46fcbfa8877"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "ff27f02829024d47251a244399eb4a9df44e589a",
-      "597bf023344ea62d12602c97ab88ad1c4506b45a",
       "33581af23cd8936092226eef1fadb111607f54ca",
       "49c716efb3d59bdddd991e21b9569b94847e9b3f",
       "236418f42a5524027794a3076f28a7f6d29a6ea9",
@@ -1504,7 +1502,9 @@
       "cabe83bacc0e55321450741cab7ee2f399b22974",
       "748bc0a18ef701692a029053f3e43cf17bc9a051",
       "70402f5f9a811dedd0c1142e51e0999f26f5c8bf",
-      "83d7a386a26c57093d5f4fc5cfc4d9bcdad3f3b0"
+      "83d7a386a26c57093d5f4fc5cfc4d9bcdad3f3b0",
+      "86e6d4705a2e59d1a66eb692c3f3c1addc09f35d",
+      "dd6c25fca62802bb09e38398adac20f82aaf42c1"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1555,9 +1555,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "655e8318b3e3746adcb2db2cc7291db3751381ad",
-      "d412dbae464ed4911c65bfc934182dc2cac38138",
-      "771f581d9f3c187c4d33b72af3330d4914f63d15",
       "62031d03ecf553053021df71bbf91aa8d53791b7",
       "1a658d6f2b4e1ae365135fd47ffe2e7be80532ab",
       "805c676edb6d5b07cb756b8fcbec859f74c7940a",
@@ -2054,10 +2051,12 @@
       "31c660b1183b82e84687f4029d45215c70a84e92",
       "905cf9c90c84ec521cc4c6a944ede4cb7044005e",
       "2f761379564f7684e6d1a556b1ddb73a779d2f08",
-      "f1fe0bf305f3d85fae9d50bf4d874e377b225f36"
+      "f1fe0bf305f3d85fae9d50bf4d874e377b225f36",
+      "4e79991aeec5168bd484890fe05bdcd6816c6de2",
+      "938a405b5fb9f7c967c6ff89cb5ed0b1fa425b0c",
+      "cebc4fd3900da951caa0b895a1804590443727d1"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
-      "3a48595866cbdc02b41f877c1c74352998e6a29f",
       "8c50d59b61c1b8d007483ed0f2c95ff23971c9d5",
       "fe86eb80cd113a73769ae945c809b200ca7c592f",
       "c4c02aed9b7a3b2bfc19991ddfe74686d617b6d7",
@@ -2556,18 +2555,10 @@
       "6c6e691bbeec40627b14fa16bb9c3dc07631b536",
       "575995e1963fc7d9934440cfb31159b31386b103",
       "827470c7be7cf0d62515f5dba82762e8d3c563de",
-      "2cd58f42a0aa9925bbf7b1aee30c3057e62e69df"
+      "2cd58f42a0aa9925bbf7b1aee30c3057e62e69df",
+      "93786b066b560a758fc3bda3bae7662cfea4976d"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "ff55c0dc57a3e6686b8c9f820a7bea6f35c8c6c2",
-      "fb79fd026de9a0a90b7cb90651c9bae8011caa70",
-      "9368444c1adca6652eb38011778c898dfb67098b",
-      "1641ca1eed5c55554e3c16b92853d43fb1a5bcef",
-      "76584c45e06f282fce63efdcb4b11b4ffd7ca95c",
-      "647ddab1f8d680514ae17813ccb86d6435a1b999",
-      "ae01598a3dfa720a6757b562f4dd7d1b85f611e2",
-      "14c1cad6f45105eddf202b1c972c1961aaf2ba6f",
-      "5ad19ca16b417c174aebcebbab3379ea3c2388f1",
       "83d897d6c6356515081940a141fa1d873571fc60",
       "9a72238cbd0a35280a9233fdc298a95759d0b312",
       "3182a44c7a126f6643228c225fb8795ec5206841",
@@ -3058,7 +3049,16 @@
       "afa4c2c96914bbeb5ca2e62322c955582cc5e0bd",
       "d368061ed9ac2ede78db573d5ea3088be4a9158c",
       "6769fe7cfa855e0a6ecf96fd9596ec1bbac84013",
-      "c91daed6bedccb4b80fb1826d6f95e82fd6a4bb7"
+      "c91daed6bedccb4b80fb1826d6f95e82fd6a4bb7",
+      "610f4194dd7fada21f5f1019ba3e2e77a43ef302",
+      "bd7b9e8482786bb0fe87b5f5af4df914d8ecdb06",
+      "6019a4f581cb3ecf88430f84d7427cac95dd45d2",
+      "e50c383539a74f7e34950a83e171907ff9761c8b",
+      "b1674de89ab0d7292d3783b307b17a1de45a8d05",
+      "aed34ed9468303d5aff6d5882edb4850bdfa5681",
+      "6d5401ea6d91f5747c57d6c93f919c1f73565442",
+      "23261c7184c096bf58e5f822e9ed1a3b4167cebe",
+      "38399503530ac264dfa6b3a8f7a5a7e36b207ccc"
     ]
   }
 }
