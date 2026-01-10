@@ -1,8 +1,6 @@
 {
   "seen": {
     "https://coinpedia.org/feed/": [
-      "d9e0173a5b3463f4a119e4d4f94f347502ee7985",
-      "429d33e7a1cf1c6d16fb7e7c4ab1537ddaa6076c",
       "db0a4281c7d509831d272b875dd26c90f7660569",
       "6974eb194253f7388333b2dbbf28c2678b9e031f",
       "e2bb015f184ba8165d9eafe12d7a9a695e16715a",
@@ -500,7 +498,9 @@
       "7fa81f643f99a97ecd06e9fece044ac72b4f90cf",
       "18769a21674ff680a6ff502ed4827625e3b42d15",
       "79f1c8b3dc7744d0659b6295deaf8abc8f43a9ad",
-      "59be9ab1c7b9456b42cce2424ac57407e396c552"
+      "59be9ab1c7b9456b42cce2424ac57407e396c552",
+      "1672121ad978d2bb429914dbf94b3a41a9d6f42b",
+      "63491649da2d642e09ef37e129d0567bf1a40034"
     ],
     "https://cryptonews.com/news/feed/": [
       "822bf672bff1d8f6c4d9471e89cf32009825ee64",
@@ -1560,12 +1560,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "be5601877dc0d75d1cb2b5dd8cd6b0e3aef3d1d7",
-      "d071cd1b98c7887d1120d3a1f53bf95abdb85bb3",
-      "733834b2227cd833e1e326268a70039445cfd930",
-      "65d139d95c692a13c96e6b2b3922c404fed089d7",
-      "33c00aa5ba9d0a71a3b46092bc84a6ffb2f5036c",
-      "349e98b6b542b0145602ac4bd2c01b6a08c86b2a",
       "76bd7658b8441b3b5dd50375c43925d73284679b",
       "2ddb37aaf2f4415c63c33f68506381e778c633de",
       "f5f9dd4949415104e0bdcce110ed6b0f5683433f",
@@ -2059,7 +2053,13 @@
       "e84fbea388ff751e144203d604c9d6518324386a",
       "98e506ea870c6465b89cc03397de890b77a3f276",
       "db5165e6ec5d3d0a2b982a873d0620447290ddb2",
-      "adb19f4dfa3c07e04ab3b4083fa0da89e7abfa3d"
+      "adb19f4dfa3c07e04ab3b4083fa0da89e7abfa3d",
+      "e849923f681054bd8b83351cbc46905d1be8c63b",
+      "98dd02077337623baa99ce09585d52c20fd05cde",
+      "560bff3697547f136ab9ae0f790d7052a56bea66",
+      "b96331e4cf2b195215764b2db3877319e9f089f5",
+      "a7d38cbdf47b7fd78c572995e75ff1a80921bdfc",
+      "0a9720eddbfc0098b35d059cb185f2a13e0fda7c"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "51f907a5eb021f745348babaddf645a47dda69b7",
