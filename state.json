@@ -1005,7 +1005,6 @@
       "4294734fe0d8b71b8e33ea9d6b512677b29e5ff5"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "2d5b2eccf1f59d39216a7dd8a88c1ef00163b149",
       "e53b8fd8db37c282734e695cbcf9800737ceb7ff",
       "114ec26ddf098ae1509467cecdc902c0d5e7c0fd",
       "47c2fc785226a652907592967e9530233919f9f1",
@@ -1504,7 +1503,8 @@
       "4ab12d6c64aff4ebf077b516e413d0440839302a",
       "b1ee83d238ab27538898356e2e86c34ba312c645",
       "3252251651cf0439a24ee5f1c719daddd8bd36e2",
-      "083b4ab0c034fd110a801efaebf56d6964b98d10"
+      "083b4ab0c034fd110a801efaebf56d6964b98d10",
+      "73df71bf750d88c5f68479348922bcb7b8fc0ad8"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1562,9 +1562,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "9b538a418207c2ff5cb4b176952ee5fffc6506bd",
-      "b08ab7ee92a4c26e9e533c6e3c2a5720630905e7",
-      "d44d0153c4946c688228ccb13a698730f13f4a29",
       "6003825d733638c650f06c23a1d9229b95af4469",
       "a465c019dac1b0d6707c8d0c564a58fc535ec29c",
       "ce39a5f7f967c02a4af9e928760128492283a0c9",
@@ -2061,7 +2058,10 @@
       "64dee1b3c821193fe7e385f86e4e2f37392d5998",
       "55e3521a069e7eee2f16dd2cae086f21d45bc9da",
       "8ffa9b9b8f7aef01b5a20cc190f12228c70e6728",
-      "4a124df22237b14f2d644af17460b1dc716ba498"
+      "4a124df22237b14f2d644af17460b1dc716ba498",
+      "e877f8b9b4399ca100bd204569d06f9484ad892d",
+      "aeee37a3bf237d7450bc7ec73c8abd5353e047ce",
+      "1f7c276328be0d51ee61d2562f44def6fa2c1120"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "1f587d60dcb8085f1047c526cdc4d7e49a96dcfd",
@@ -2566,8 +2566,6 @@
       "70b6dd18c1e74180cfc42b0b860a4ad240baa59c"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "2d9f5231fc5c25e1d516d813cb3dc40e531c7b36",
-      "06ab5fd956a8f9ae4ecece5792e41d80b93d8617",
       "085c5c09d6f3710ee95681de0b2e5ab308ccbe05",
       "b61186fa545bfea9ed47f10c2433b4d698d6098a",
       "2ba8ebf6129c03910de06b16dba6d7689557dd6a",
@@ -3065,7 +3063,9 @@
       "5bf4cf9e3847b3443f064537d054dcda3e1a5c21",
       "2b0cfeaf145b9cf349134be6879dbaa62271624f",
       "133a2505b6093ffb594e09d2320f55b7ce4838fc",
-      "9e8d9b328867d68cbe9dd2e152a2d6bbdfbd9c23"
+      "9e8d9b328867d68cbe9dd2e152a2d6bbdfbd9c23",
+      "e7bdac7699f2c61bb69dbc4cb903ab32d03881a7",
+      "3a0c612f1f5d5f680bdade4d5ec9226a7e6ddef7"
     ]
   }
 }
