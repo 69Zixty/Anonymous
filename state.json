@@ -1005,7 +1005,6 @@
       "f84d515e1d45ca0ff35fc1b0c461fd34555b9ca1"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "6bcb185bb632efd45f770c78c2f01a9c1cd69d4e",
       "db56ec88edd7cba355442f4526a50e08b79e08aa",
       "768aa8089b4fd6a0e5a04905e188fcc8c37701a9",
       "78794de6c1661a2a057a6ef295d1fd0da8d4ff20",
@@ -1504,7 +1503,8 @@
       "34dc1217600706192a7661a31e4197137c766af3",
       "b3d74165403549e5b888d08f61288d1090345038",
       "d31c12fa7e81fe01f7aa3b7a0261b8102b5128ce",
-      "611801f0bcc7473b173dabc0e4c62b35a8c3ce8e"
+      "611801f0bcc7473b173dabc0e4c62b35a8c3ce8e",
+      "4fb1ad3738e91af208e2a288ff10b126fb1bb7f3"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1563,9 +1563,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "d2d342271c37e5cd36df7a7fd823bb0e613d6aea",
-      "cd449f07c45d7f65bb6827513a3310f8d9cb015b",
-      "153833dd477224972beca35be50179457f8fffb7",
       "5c631012eaa4c48cf46acced0fd1c7724be6f3c7",
       "31f7c5b2c6ea95f7fd8ecc73709a92a35495f141",
       "4e047ce3d2e889296d8b204485994dc8c94bc1ba",
@@ -2062,7 +2059,10 @@
       "afb775f7e384b55a0021aee344e5746b40ea6a50",
       "fb8a9a8880e08bf62d8e00e88692831a149230ec",
       "a85a0bbd83def302fa811758898f94381c09dc78",
-      "618b3e792c693731879102fe5b32caf73e90a0a4"
+      "618b3e792c693731879102fe5b32caf73e90a0a4",
+      "a4c5f551575e4cff0f1dccdd90e86c3f9c5a78da",
+      "049fc13e11a5fba20bf1b2920e05dbaadf1aa7b2",
+      "edcfe8f6b816b4b3403a8add65a77b6bc2653c8c"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "aee4d38c1aaa7df2734810b9451843cc9d4b2987",
@@ -2567,15 +2567,6 @@
       "94775fd03b05b1a8735f41086b4c82d5f26d3605"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "bbfaf4dae6beca82672f733a06273aad55c63550",
-      "8a1dba4837d565fae8e262d0758fe326546c3016",
-      "4a56a5ebfb0428076afaa05dab8ddbf41d003162",
-      "dd884d604735bc47e15834ac194e4ea24d5cf4c8",
-      "a3b5b12a0055cdfa46ebdfea5c1edf929a39fb34",
-      "cc841c0c57098dfe523a459418da14299d388139",
-      "48668f6a82afbeeea13c68b12e4a140c39bfe0d4",
-      "d49e57f9518943a7634348a7ab6db00b6aab8717",
-      "9bac53bb9485afec2838b07bea680687a0f9e838",
       "a2490514519a898ecaf579bcd5d4498fe31f6116",
       "3bbf93eb68149a9e8890016355dcad4afa5dcd73",
       "19d60c7671f064ee31f61019f6c316b7fb423cf1",
@@ -3066,7 +3057,16 @@
       "60f6b547b96d767dd0fd87c63ea8aae6a10ff437",
       "b03b6ac8d59a4d44f31984487eef0eeee87096f5",
       "aa12e952e215b40c215981b943231d3d539a4ac0",
-      "ee4bdf49ee0cf501f707038ca6f2d89fcf9738a2"
+      "ee4bdf49ee0cf501f707038ca6f2d89fcf9738a2",
+      "e1a3c00d8d4d1798f57ccfe735ee23778d9dd944",
+      "bcb8bdf04cce60ba52b646df6d9c23b67b97ae75",
+      "5306d1e4e0e339d2978cd23aafe02bbf90b4b137",
+      "8d60bf59b651ebe6d96a3ad46312aff869c17917",
+      "c04b70efbbbddfae0232350de23719bd4cd61baa",
+      "facb6e5654b6e0152def13bfc53854ca064adfe8",
+      "21cebcaad3c4005602673477c1e25622e2b05746",
+      "5d39b05ebdd81a719934574064a0b6be44f57dfb",
+      "9556315b7c8ad0c8605b9d95713de0a9c9215e47"
     ]
   }
 }
