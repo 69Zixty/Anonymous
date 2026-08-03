@@ -1,7 +1,6 @@
 {
   "seen": {
     "https://coinpedia.org/feed/": [
-      "511f5eec5fd063ef9a297434cd3eee6e86539c32",
       "ef45fbe7f23db2f13576ddba7eb1cfd8c4a28508",
       "38060f59cc0fbeab5cc677bd7e71d1e3ea3cd695",
       "9a7c2cce16ffb7338313ac2bfda52c6efad1abbe",
@@ -500,7 +499,8 @@
       "6b3dcd534b27024fc8da615cde1af01204d2b1f7",
       "4f1ecff6fddc35566397723733607e28b10db871",
       "61c092b9f8288833691a1ed018dffb4db137320d",
-      "958d1b7e982a4e2144cd26e007e94c4e8077498b"
+      "958d1b7e982a4e2144cd26e007e94c4e8077498b",
+      "cf18bbc621239b348b3ccc0570d785740ae4c4d6"
     ],
     "https://cryptonews.com/news/feed/": [
       "802fd3062c33765d13f03319fc2a1e87e244ef36",
@@ -1005,8 +1005,6 @@
       "3d1eb72f33e0d92d890316d50b3ecdbc5f230cfa"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "cb7716de1ae756435150b00580885cd307a14adf",
-      "fff844cbbfed9afdd8fe4df3fab443e4dfb573d1",
       "2ed2cc44bd1f6a296c25c357cbd0ade4f85b2779",
       "38d3fe24929fdac75853eb87f6a042acf7f2387c",
       "aae8eb27d0e72b95ebba29a57c55cf1d2bd6b1ac",
@@ -1504,7 +1502,9 @@
       "c9e94528ec9d873db1343a250af59250c495c935",
       "aa6a6298618485fa61cd073e2d8c309325de9ace",
       "2f3593c0ba385e169575fd34e25753f9fd7db0c4",
-      "a636fab074d02ac6ff6ea87e6e59b11a5632f7c4"
+      "a636fab074d02ac6ff6ea87e6e59b11a5632f7c4",
+      "e992eb29fce85cbfebe565f498a64d1a94e0a746",
+      "468e640d0f4faa5479f2d0e8ad7770de0362b331"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -1565,14 +1565,6 @@
       "e862c421803dd808785323c81c7e503f577551a0"
     ],
     "https://finance.yahoo.com/news/rss": [
-      "56eb404a2d0c5bea32fd4331a9f5bf245c17ad51",
-      "623788480020c4162a973ee4733655166454025d",
-      "ee8e4f92452a7ac40f071071488bb1ad92b9397e",
-      "6abfde18866a75131463ff8573cf064b6ee2c4b0",
-      "92982e9ca53cfc84e2c3e5e7305dd4e3d712ad35",
-      "14af5ca479f87ed9182f468d027e5743396cc81a",
-      "1b1818f2f873ca9ae98752a28882fdae88a40d43",
-      "af4937421325234fc4e33ec2a1146342192f24bf",
       "a55dd6787b4ddc723b36e5ae98e362777805d384",
       "596f9b88531c23166f75eeb633643d3ca4b52b81",
       "e258c560415211334c59366ad093a318f976cd50",
@@ -2064,7 +2056,15 @@
       "40041ba779d06d9b9ce7e63b658f0e164bc911f0",
       "e0501048ae40d3a33e658beced0c1b85ca605c1f",
       "bae00c565052fbe6f8b0b6c14e7a66801ab8be54",
-      "cb9dd1bcc6e94423909efd957f6b0225202e7bb7"
+      "cb9dd1bcc6e94423909efd957f6b0225202e7bb7",
+      "2ef720d15786c4d5b43e11df69ab51fffe5fe7cc",
+      "3fdc489a02940e8c4b3baf652c30d1a5238d95e1",
+      "397280bcb9a7e240f9e2f55d7040e807cc602f73",
+      "a8a19ddb4ea715d399bc43656d26a3b3457b8425",
+      "26daf4905b6d30d48631e08701a8cdb47c0d6fca",
+      "ba06b4b24577a5afd8b8fcd3fd695a41c9aa9b42",
+      "0f7051b53f574e1415c7c38662c646def187e56c",
+      "68fed0febee6177135859cefb16b8548f10ac07d"
     ],
     "https://www.coindesk.com/arc/outboundfeeds/rss/": [
       "9b01c9385c0096566f9dba736b497371aa9f35cf",
@@ -2569,16 +2569,6 @@
       "dad94558c7aff7e38c243cfed85e5dfd28c822fc"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "7cb1e1f061274a216b26d73feea216d3d7438f47",
-      "4e539b9ec62ee846fffba9c4f06640f86519bdce",
-      "94d148ca5ba55816c03bcb7fb5dc2397dbcfb217",
-      "50ec923eb70aff342b91fc1e5103cead5538c968",
-      "503e0e2919ad0ce693ee11dc2b556ff00734569e",
-      "48b2b3a3a8f4e43cd86983b89c58028f18235e88",
-      "008e3f41e4fec0cd4a59bb10f3bfa870ea595739",
-      "578cebe20a82419febf7e56dcdf36b1c38f7165c",
-      "4334bccb165145fbf86450c325dccb2bfb2880d4",
-      "ba13df474071946a57b890ca9caed97b6c327650",
       "cb964f73fed373357af1eeb1ddf241358353dee7",
       "0437c4b47d6ef803509613266115d8905ae0d533",
       "6c55b50b1db92c54cb95b39cf7590fd4951ed004",
@@ -3068,7 +3058,17 @@
       "c439a72824fa9fcbdb12ed6d0cb7d3e42629d213",
       "bc46cd8af6be5d14da0235e65b6b2d453af2ec41",
       "4f59a7187535a8ed8c524551910221c9950f0eec",
-      "d796b50b52575e33606af83b9e44a7bd59dd7b89"
+      "d796b50b52575e33606af83b9e44a7bd59dd7b89",
+      "6046cbfe7da734b021f1e5534c5eee71a9c2805d",
+      "0dba2ce6b31ad304dd318cead92524ffd3e31cdf",
+      "fc315168e18bb0b0beceedc31770740dd52f093b",
+      "3e511e13754797fce4d853c90e5415a39654ebb4",
+      "941058fdb00878a9843e17c5b9c362f25f4385c9",
+      "c053ff2815f369115db851ae1339dad1e92aae87",
+      "9dc667d3f92cbeb437faa271dda595a9e87a33b9",
+      "801c715de99b3810c896b47e694610115593f253",
+      "36f7db9d8a3fda40aa5a4d3049d9c2776049b20f",
+      "a93ecd25bfa03b4acf4f85801ae19064a1e631e2"
     ]
   }
 }
