@@ -1005,8 +1005,6 @@
       "5880e190f669a60081a0809b64acec29dcd4ebec"
     ],
     "https://feeds.bloomberg.com/markets/news.rss": [
-      "24317bdabdb99aed4692f67e800541135f5c2129",
-      "054eedaca4e525b70c2de94ea7114dbb90b069a0",
       "c3da7a2029e91a1f46801ffc6d2ccf83f3a6d1c3",
       "9d7abb582e8ac1db6c7763342ff34b6eb1ec2530",
       "add266d41118d8ea5a310865855044ede7fcf845",
@@ -1504,7 +1502,9 @@
       "fef121e469063b6a090b97aa5b79b4f06ad2ef9f",
       "d9e5ad1137957f5f7428c6cc6c72048a64eda08d",
       "d46244f48438643bd88eec534eeca25342b0d3a6",
-      "e0a945d9be8d7310f409bc2a6a8cce359bf3922c"
+      "e0a945d9be8d7310f409bc2a6a8cce359bf3922c",
+      "815ee6436a5e6b4d9da9b498747e24ba1db8288c",
+      "9dd1a5b5308fab4f7ec98e56373301bbf9bdc999"
     ],
     "https://feeds.content.dowjones.io/public/rss/mw_marketpulse": [
       "98cada0f66f2d94e70f2da93e4f50195486238c8",
@@ -2569,12 +2569,6 @@
       "0bce135039c9fa3eb55754120ef546a4d83edb66"
     ],
     "https://www.investing.com/rss/news.rss": [
-      "5b0a3ef2594be08fdae0de9ff33cab064286a68d",
-      "42a4ca86d5514ebc2b3a21003683c27fabef8402",
-      "820c9951238dac50f61d2ddc899fbb5f95e73017",
-      "f0e7e48668f3c921432c46984d2875967eb8e110",
-      "567b6e5c813e37bd3799b1c36c8f8f36721c44d3",
-      "a5e7fa0b6a0ef72d442fcb77e7b0104ed8e16907",
       "385f56304d31705b3a16c32be8a6666b03361bab",
       "5bfb938d764252ccb68a09c863fe18f2dceed9bf",
       "9e7087d5c8c79fcd8a988ded874661dd27c3beb8",
@@ -3068,7 +3062,13 @@
       "7873f65a29122e0e0afe5726b147fcb80d94a8cf",
       "9cff2d202bdf6245c712c4f1a851c8fd31b08db7",
       "b3b1d69b7d7a9d494940ff612114049766bfc449",
-      "46ec4daf33d5663a761fb193abf710cd5cd075d8"
+      "46ec4daf33d5663a761fb193abf710cd5cd075d8",
+      "749cdceae09ff3dab04984d8f2a0156b1c441942",
+      "948c66c33e11e21abfe57512441dd75d54da4008",
+      "7591f126702680c5af90fdb102116e62db04da5b",
+      "70315823546a857ef96757df770db901d4e96fb1",
+      "ca6424886da353fe8539afbe8123d39be094d1cd",
+      "7803829f3f75420871818f7064ff313aedaed05e"
     ]
   }
 }
